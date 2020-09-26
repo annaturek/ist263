@@ -1,0 +1,20 @@
+* {
+    font-family: 'Helvetica, Arial, sans-serif'
+}
+ul {
+    margin: 0px;
+    padding: 0px;
+    list-style-type: square;
+}
+
+li {
+    padding: 10px;
+    font-style: normal;
+}
+.odd {
+    background: #f1f1f1;
+}
+
+.even {
+    background: #e1e1e1;
+}
